@@ -4,8 +4,13 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
+*.db
+*.sqlite3
 *.pyo
 env.py
+.env
+.env.*
+.flaskenv
 
 # IDE
 .vscode/

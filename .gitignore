@@ -10,3 +10,5 @@ env.py
 # IDE
 .vscode/
 .idea/
+
+versions/
